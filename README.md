@@ -40,14 +40,6 @@
 
 ---
 
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/DevAhmedNaeem"><img src="https://img.shields.io/github/followers/DevAhmedNaeem?label=Follow&style=social" /></a>
-  <!-- Add more social links like LinkedIn or Twitter here -->
-</p>
-
----
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
