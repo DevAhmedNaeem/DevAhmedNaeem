@@ -31,10 +31,6 @@ Currently improving my JavaScript skills and exploring more about REST APIs and 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-animations/main/wave.svg" width="100%" />
-</p>
-
 ---
 
 ## 🚀 Featured Projects
