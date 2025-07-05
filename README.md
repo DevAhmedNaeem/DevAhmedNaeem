@@ -3,19 +3,11 @@
 <h1 align="center">Hey 👋, I'm Ahmed Naeem</h1>
 <h3 align="center">💻 Junior Web Developer | HTML, CSS, JS & WordPress 💡</h3>
 
-<!-- Typing animation -->
-<p align="center">
-font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=I+create+custom+websites+using+HTML+CSS+and+JS;I+build+WordPress+sites+with+Elementor;Always+learning+something+new!+🚀" alt="Typing SVG" />
-</p>
-
----
-
 ### 🧠 About Me
 
-- 🌱 Currently learning and building in **Frontend + WordPress**
-- 🛠️ I use **HTML**, **CSS**, **JavaScript**, **PHP**, and **WordPress**
+- 🌱 Currently learning and building in **Frontend + Backend**
+- 🛠️ I use **HTML**, **CSS**, **JavaScript** and **WordPress**
 - 💡 Focused on responsive design, clean UI, and performance
-- 🔗 Portfolio: *(Add link here soon)*
 
 ---
 
