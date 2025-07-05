@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Ahmed Naeem</h1>
-<h3 align="center">💻 Junior Web Developer | HTML, CSS, JS | WordPress Specialist</h3>
+<h3 align="center">💻 Junior Web Developer | HTML, CSS, JS | WordPress </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=61F1E1&center=true&vCenter=true&width=800&lines=Creating+Modern+Websites+with+HTML+CSS+JS;WordPress+Developer+%7C+Custom+Themes+%26+Plugins;Open+to+Freelance+and+Collaboration+Projects" alt="Typing SVG" />
@@ -41,9 +41,9 @@ Currently improving my JavaScript skills and exploring more about REST APIs and 
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Modern Portfolio Site](#) | A responsive portfolio website built using HTML, CSS, JS | `HTML`, `CSS`, `JS` |
-| [Custom WordPress Site](#) | WordPress site with custom theme and WooCommerce integration | `WordPress`, `PHP`, `Elementor` |
-| [Landing Page Design](#) | A sleek business landing page | `HTML`, `CSS`, `Bootstrap` |
+| [Tesla Clone](https://tesla-by-ahmed.vercel.app/) | A sleek Tesla landing page clone | `HTML`, `CSS` |
+| [Netflix UI Clone](https://netflix-by-ahmed.vercel.app/) | A modern Netflix homepage replica | `HTML`, `CSS` |
+| [YouTube UI Clone](https://youtube-by-ahmed.vercel.app/) | YouTube home UI built from scratch | `HTML`, `CSS` |
 
 ---
 
