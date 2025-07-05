@@ -1,16 +1,67 @@
-## Hi there 👋
+<!-- README.md for DevAhmedNaeem -->
 
-<!--
-**DevAhmedNaeem/DevAhmedNaeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey 👋, I'm Ahmed Naeem</h1>
+<h3 align="center">💻 Junior Web Developer | HTML, CSS, JS & WordPress 💡</h3>
 
-Here are some ideas to get you started:
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=I+create+custom+websites+using+HTML+CSS+and+JS;I+build+WordPress+sites+with+Elementor;Always+learning+something+new!+🚀" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+
+- 🌱 Currently learning and building in **Frontend + WordPress**
+- 🛠️ I use **HTML**, **CSS**, **JavaScript**, **PHP**, and **WordPress**
+- 💡 Focused on responsive design, clean UI, and performance
+- 🔗 Portfolio: *(Add link here soon)*
+
+---
+
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,php,git,figma,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats (Live)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevAhmedNaeem&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DevAhmedNaeem&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAhmedNaeem&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+### 🎯 Goals & Interests
+
+<marquee behavior="scroll" direction="left" scrollamount="6">
+🌐 Web Development &nbsp;&nbsp;&nbsp; 🎨 UI/UX Design &nbsp;&nbsp;&nbsp; ⚙️ WordPress Automation &nbsp;&nbsp;&nbsp; 🧩 Plugin Customization &nbsp;&nbsp;&nbsp; 💬 Open Source
+</marquee>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/DevAhmedNaeem"><img src="https://img.shields.io/github/followers/DevAhmedNaeem?label=Follow&style=social" /></a>
+  <!-- Add more social links like LinkedIn or Twitter here -->
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+⭐️ **Thanks for visiting my profile! Let's build something amazing.**
+
