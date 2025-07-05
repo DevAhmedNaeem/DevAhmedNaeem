@@ -1,10 +1,8 @@
-<!-- README.md for DevAhmedNaeem -->
-
 <h1 align="center">👋 Hello, I'm Ahmed Naeem</h1>
 <h3 align="center">💻 Junior Web Developer | HTML, CSS, JS | WordPress Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=61F1E1&center=true&vCenter=true&width=480&lines=Creating+Modern+Websites+with+HTML+CSS+JS;WordPress+Developer+%7C+Custom+Themes+%26+Plugins;Open+to+Freelance+and+Collaboration+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=61F1E1&center=true&vCenter=true&width=800&lines=Creating+Modern+Websites+with+HTML+CSS+JS;WordPress+Developer+%7C+Custom+Themes+%26+Plugins;Open+to+Freelance+and+Collaboration+Projects" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,10 +19,20 @@ Currently improving my JavaScript skills and exploring more about REST APIs and 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack — <em>waving into action</em> 🌊
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,php,git,figma,vscode" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-animations/main/wave.svg" width="100%" />
 </p>
 
 ---
@@ -37,8 +45,6 @@ Currently improving my JavaScript skills and exploring more about REST APIs and 
 | [Custom WordPress Site](#) | WordPress site with custom theme and WooCommerce integration | `WordPress`, `PHP`, `Elementor` |
 | [Landing Page Design](#) | A sleek business landing page | `HTML`, `CSS`, `Bootstrap` |
 
-<!-- Add image previews if you like -->
-
 ---
 
 ## 📊 GitHub Stats
@@ -50,22 +56,4 @@ Currently improving my JavaScript skills and exploring more about REST APIs and 
 
 ---
 
-## 📬 Let's Connect
-
-<p align="center">
-  <a href="mailto:ahmed@example.com"><img src="https://img.shields.io/badge/Email-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/devahmednaeem"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/DevAhmedNaeem"><img src="https://img.shields.io/github/followers/DevAhmedNaeem?style=social" /></a>
-</p>
-
----
-
-## 🌊
-
-<!-- SVG wave animation -->
-<img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-animations/main/wave.svg" width="100%" />
-
----
-
 ⭐️ *Thanks for visiting my GitHub profile — feel free to explore or reach out!*
-
