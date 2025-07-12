@@ -17,7 +17,20 @@ I'm a **Junior Web Developer** with hands-on experience building:
 
 Currently improving my JavaScript skills and exploring more about REST APIs and full-stack development.
 
-[Ahmed Naeem – LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-darkblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-naeem-b3b152261)
+## 🔗 Connect with Me on LinkedIn
+
+<table>
+  <tr>
+    <td align="center" style="background:#0A66C2; border-radius:10px; padding:20px; color:#fff;">
+      <img src="https://avatars.githubusercontent.com/u/106509720?v=4" alt="Ahmed Naeem" width="100" style="border-radius:50%"><br><br>
+      <strong>Ahmed Naeem</strong><br>
+      Web Developer | MERN | HTML CSS JavaScript | Node.js | WordPress | IT Support<br><br>
+      <a href="https://www.linkedin.com/in/ahmed-naeem-b3b152261/" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Profile-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
