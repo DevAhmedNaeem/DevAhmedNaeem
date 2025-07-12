@@ -17,39 +17,6 @@ I'm a **Junior Web Developer** with hands-on experience building:
 
 Currently improving my JavaScript skills and exploring more about REST APIs and full-stack development.
 
-## 🔗 Connect with Me on LinkedIn
-
-<!-- LinkedIn Profile Card for GitHub README -->
-<div align="center">
-  <div style="background: #0d1117; color: white; padding: 25px; border-radius: 12px; border: 1px solid #30363d; max-width: 400px; font-family: Arial, sans-serif;">
-    <h2 style="margin-bottom: 5px;">Ahmed Naeem</h2>
-    <p style="font-size: 14px; color: #c9d1d9;">
-      Web Developer | MERN | HTML CSS JavaScript | Node.js | WordPress Developer | IT Support
-    </p>
-
-    <a href="https://www.linkedin.com/in/ahmed-naeem-b3b152261/" target="_blank" style="
-        display: inline-block;
-        margin-top: 15px;
-        padding: 10px 20px;
-        color: white;
-        background-color: #0A66C2;
-        border: none;
-        border-radius: 8px;
-        text-decoration: none;
-        font-weight: bold;
-        transition: transform 0.3s ease, background 0.3s ease;
-      " 
-      onmouseover="this.style.transform='scale(1.05)'; this.style.background='#084e9e';" 
-      onmouseout="this.style.transform='scale(1)'; this.style.background='#0A66C2';">
-      🔗 View Profile
-    </a>
-  </div>
-</div>
-
-
-
----
-
 ## 🛠️ Tech Stack — <em>waving into action</em> 🌊
 
 <p align="center">
