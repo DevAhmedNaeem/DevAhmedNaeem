@@ -17,9 +17,8 @@ I'm a **Junior Web Developer** with hands-on experience building:
 
 Currently improving my JavaScript skills and exploring more about REST APIs and full-stack development.
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ahmed-naeem-b3b152261" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/ahmed-naeem-b3b152261?trk=profile-badge">Ahmed Naeem</a></div>
-              
+[Ahmed Naeem – LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-darkblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-naeem-b3b152261)
+
 
 ---
 
