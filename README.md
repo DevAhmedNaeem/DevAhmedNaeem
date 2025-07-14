@@ -21,7 +21,6 @@ Currently improving my JavaScript skills and exploring more about REST APIs and 
 <div align="center" style="margin: 20px 0; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Daftpunktocat" width="160">
   <img src="https://octodex.github.com/images/stormtroopocat.png" alt="Stormtroopocat" width="160">
-  <img src="https://octodex.github.com/images/ironcat.jpg" alt="Ironcat" width="160">
   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Daftpunktocat Guy" width="160">
 </div>
 
