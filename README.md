@@ -21,8 +21,8 @@ Currently improving my JavaScript skills and exploring more about REST APIs and 
 <div align="center" style="margin: 20px 0; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Daftpunktocat" width="160" style="border-radius: 10px;">
   <img src="https://octodex.github.com/images/stormtroopocat.png" alt="Stormtroopocat" width="160" style="border-radius: 10px;">
-  <img src="https://octodex.github.com/images/ironcat.jpg" alt="Ironcat" width="160" style="border-radius: 10px;">
-  <img src="https://octodex.github.com/images/hubot.jpg" alt="Hubot" width="160" style="border-radius: 10px;">
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.png" alt="Ironcat" width="160" style="border-radius: 10px;">
+  <img src="https://user-images.githubusercontent.com/74038190/241765453-91e74a01-1d3d-4a08-9c3b-5e5f5a5e8b6e.png" alt="Hubot" width="160" style="border-radius: 10px;">
 </div>
 
 ## 🏆 GitHub Trophies
