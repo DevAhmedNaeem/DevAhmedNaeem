@@ -17,7 +17,7 @@ I'm a **Junior Web Developer** with hands-on experience building:
 
 Currently improving my JavaScript skills and exploring more about REST APIs and full-stack development.
 
-## 🏆 GitHub Trophies
+## � GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DevAhmedNaeem&theme=onedark&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" style="max-width: 100%;">
