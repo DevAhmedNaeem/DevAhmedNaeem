@@ -5,6 +5,46 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=61F1E1&center=true&vCenter=true&width=800&lines=Creating+Modern+Websites+with+HTML+CSS+JS;WordPress+Developer+%7C+Custom+Themes+%26+Plugins;Open+to+Freelance+and+Collaboration+Projects" alt="Typing SVG" />
 </p>
 
+<!-- SpongeBob Animation -->
+<div align="center" style="margin:20px 0;position:relative;">
+  <img id="spongebob" 
+       src="https://i.imgur.com/3t6Q0bE.gif" 
+       alt="SpongeBob" 
+       width="180"
+       style="cursor:pointer;transition:all 0.3s ease;border-radius:15px;filter:drop-shadow(0 0 8px rgba(255,255,0,0.6))">
+  <p style="color:#FFD700;font-size:14px;margin-top:8px;">Click me to glow!</p>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const sponge = document.getElementById('spongebob');
+    if(sponge) {
+      sponge.onclick = function() {
+        this.style.filter = 'drop-shadow(0 0 25px yellow) brightness(1.3)';
+        setTimeout(() => {
+          this.style.filter = 'drop-shadow(0 0 8px rgba(255,255,0,0.6))';
+        }, 1000);
+      };
+    }
+  });
+</script>
+
+<style>
+  #spongebob:hover {
+    animation: bounce 0.8s infinite alternate;
+    transform-origin: center;
+  }
+  @keyframes bounce {
+    0% { transform: translateY(0) rotate(-2deg); }
+    50% { transform: translateY(-10px) rotate(2deg); }
+    100% { transform: translateY(0) rotate(-2deg); }
+  }
+</style>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=61F1E1&center=true&vCenter=true&width=800&lines=Creating+Modern+Websites+with+HTML+CSS+JS;WordPress+Developer+%7C+Custom+Themes+%26+Plugins;Open+to+Freelance+and+Collaboration+Projects" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
