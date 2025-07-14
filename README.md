@@ -5,8 +5,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=61F1E1&center=true&vCenter=true&width=800&lines=Creating+Modern+Websites+with+HTML+CSS+JS;WordPress+Developer+%7C+Custom+Themes+%26+Plugins;Open+to+Freelance+and+Collaboration+Projects" alt="Typing SVG" />
 </p>
 
+<!-- Interactive SpongeBob Element -->
 <div align="center" style="margin: 20px 0;">
-  <img id="spongebob" src="https://i.imgur.com/JWexDpj.png" alt="SpongeBob" width="150" style="cursor: pointer; transition: all 0.3s ease; filter: drop-shadow(0 0 5px rgba(255,255,0,0.5));" onclick="this.style.filter='drop-shadow(0 0 20px yellow) brightness(1.2)'; setTimeout(()=>{this.style.filter='drop-shadow(0 0 5px rgba(255,255,0,0.5))'}, 1000)">
+  <img id="spongebob" 
+       src="https://i.imgur.com/JWexDpj.png" 
+       alt="SpongeBob" 
+       width="150" 
+       style="cursor: pointer; 
+              transition: all 0.3s ease; 
+              filter: drop-shadow(0 0 5px rgba(255,255,0,0.5));"
+       onclick="this.style.filter='drop-shadow(0 0 20px yellow) brightness(1.2)'; 
+                setTimeout(()=>{this.style.filter='drop-shadow(0 0 5px rgba(255,255,0,0.5))'}, 1000)">
   <p style="color: #FFD700; font-size: 14px; margin-top: 5px;">Click me!</p>
 </div>
 
@@ -16,8 +25,8 @@
     animation: bounce 0.5s infinite alternate;
   }
   @keyframes bounce {
-    from { transform: translateY(0); }
-    to { transform: translateY(-5px); }
+    from { transform: translateY(0) scale(1.05); }
+    to { transform: translateY(-8px) scale(1.05); }
   }
 </style>
 
