@@ -17,7 +17,7 @@ I'm a **Junior Web Developer** with hands-on experience building:
 
 Currently improving my JavaScript skills and exploring more about REST APIs and full-stack development.
 
-## � GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DevAhmedNaeem&theme=onedark&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" style="max-width: 100%;">
@@ -39,11 +39,15 @@ Currently improving my JavaScript skills and exploring more about REST APIs and 
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 | Project | Description | Tech |
-|--------|-------------|------|
+|---------|-------------|------|
 | [Tesla Clone](https://tesla-by-ahmed.vercel.app/) | A sleek Tesla landing page clone | `HTML`, `CSS` |
 | [Netflix UI Clone](https://netflix-by-ahmed.vercel.app/) | A modern Netflix homepage replica | `HTML`, `CSS` |
 | [YouTube UI Clone](https://youtube-by-ahmed.vercel.app/) | YouTube home UI built from scratch | `HTML`, `CSS` |
+
+</div>
 
 ---
 
@@ -52,7 +56,8 @@ Currently improving my JavaScript skills and exploring more about REST APIs and 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevAhmedNaeem&show_icons=true&theme=tokyonight" width="80%" />
   <br><br>
- 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAhmedNaeem&theme=tokyonight" width="80%" />
+</div>
 
 ---
 
