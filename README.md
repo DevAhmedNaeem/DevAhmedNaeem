@@ -56,9 +56,7 @@ Currently improving my JavaScript skills and exploring more about REST APIs and 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevAhmedNaeem&show_icons=true&theme=tokyonight" width="80%" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAhmedNaeem&theme=tokyonight" width="80%" />
-</div>
-
+  
 ---
 
 ⭐️ *Thanks for visiting my GitHub profile — feel free to explore or reach out!*
