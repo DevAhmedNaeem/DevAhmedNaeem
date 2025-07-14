@@ -22,7 +22,7 @@ Currently improving my JavaScript skills and exploring more about REST APIs and 
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Daftpunktocat" width="160">
   <img src="https://octodex.github.com/images/stormtroopocat.png" alt="Stormtroopocat" width="160">
   <img src="https://octodex.github.com/images/ironcat.jpg" alt="Ironcat" width="160">
-  <img src="https://octodex.github.com/images/hubot.jpg" alt="Hubot" width="160">
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Daftpunktocat Guy" width="160">
 </div>
 
 ## 🏆 GitHub Trophies
