@@ -15,7 +15,24 @@ I'm a **Junior Web Developer** with hands-on experience building:
 - ⚙️ **Dynamic WordPress sites** (Elementor, WooCommerce, Custom Themes & Plugins)
 - 🎯 Passionate about **clean code**, **responsive design**, and **user experience**
 
-Currently improving my JavaScript skills and exploring more about REST APIs and full-stack development.
+Currently improving my JavaScript skills and exploring more about REST APIs and full-stack development
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61F1E1&center=true&vCenter=true&width=500&lines=Ahmed+Naeem;Frontend+%7C+WordPress+Developer;Open+to+Collaborations" alt="Typing SVG" />
+  </a>
+</h1>
+
+---
+
+## 🌐 Professional Network
+
+<div align="center">
+
+[![LinkedIn Animation](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-3a22-4c1f-ad48-9ed4d94a9728.gif)](https://www.linkedin.com/in/ahmed-naeem-webdeveloper/)
+  
+[![LinkedIn Card](https://github-readme-linkedin-card.vercel.app/api?name=Ahmed+Naeem&title=Web+Developer&background=0D1117&border=61F1E1&linkedin=ahmed-naeem-webdeveloper&animation=wave)](https://www.linkedin.com/in/ahmed-naeem-webdeveloper/)
+
 
 ## 🛠️ Tech Stack — <em>waving into action</em> 🌊
 
