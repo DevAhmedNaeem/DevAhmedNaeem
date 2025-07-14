@@ -18,6 +18,10 @@ I'm a **Junior Web Developer** with hands-on experience building:
 
 Currently improving my JavaScript skills and exploring more about REST APIs and full-stack development.
 
+<div align="center" style="margin: 20px 0;">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Daftpunktocat" width="200">
+</div>
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
