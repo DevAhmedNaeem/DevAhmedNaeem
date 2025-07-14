@@ -19,10 +19,10 @@ I'm a **Junior Web Developer** with hands-on experience building:
 Currently improving my JavaScript skills and exploring more about REST APIs and full-stack development.
 
 <div align="center" style="margin: 20px 0; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Daftpunktocat" width="180" style="border-radius: 10px;">
-  <img src="https://octodex.github.com/images/spectrocat.png" alt="Spectrocat" width="180" style="border-radius: 10px;">
-  <img src="https://octodex.github.com/images/grim-repo.jpg" alt="Grim Repo" width="180" style="border-radius: 10px;">
-  <img src="https://octodex.github.com/images/privateinvestocat.jpg" alt="Private Investocat" width="180" style="border-radius: 10px;">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Daftpunktocat" width="160" style="border-radius: 10px;">
+  <img src="https://octodex.github.com/images/stormtroopocat.png" alt="Stormtroopocat" width="160" style="border-radius: 10px;">
+  <img src="https://octodex.github.com/images/ironcat.jpg" alt="Ironcat" width="160" style="border-radius: 10px;">
+  <img src="https://octodex.github.com/images/hubot.jpg" alt="Hubot" width="160" style="border-radius: 10px;">
 </div>
 
 ## 🏆 GitHub Trophies
