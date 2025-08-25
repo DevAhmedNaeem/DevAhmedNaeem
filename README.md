@@ -23,7 +23,7 @@ I am a passionate **Junior Web Developer** with hands-on experience creating mod
 
 ### Tech Stack
 
-- HTML5 | CSS3 | JavaScript | WordPress | PHP | Git | Figma
+- HTML5 | CSS3 | JavaScript | WordPress | Git | Figma | Adobe Premier
 
 ---
 
