@@ -24,12 +24,6 @@ Currently improving my JavaScript skills and exploring more about REST APIs and 
   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Daftpunktocat Guy" width="160">
 </div>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevAhmedNaeem&theme=darkhub&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
-
 
 ## 🛠️ Tech Stack — <em>waving into action</em> 🌊
 
