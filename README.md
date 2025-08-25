@@ -9,17 +9,26 @@
 I am a passionate **Junior Web Developer** with hands-on experience creating modern, responsive websites. I love writing clean code and building seamless user experiences.
 
 ---
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
 ### Personal Highlights
 
-- 🎓 Junior Web Developer with practical experience in HTML, CSS, JavaScript, and WordPress.
-- ⚙️ Building custom themes and plugins for WordPress.
-- 📚 Currently enhancing my JavaScript skills and learning about REST APIs and full-stack development.
-- 🌱 Passionate about responsive design and accessibility.
-- 📢 Open to freelance and collaboration projects.
+- 🎓 Junior Web Developer with practical experience in HTML, CSS, JavaScript, and WordPress.  
+- ⚙️ Building custom themes and plugins for WordPress.  
+- 📚 Currently enhancing my JavaScript skills and learning about REST APIs and full-stack development.  
+- 🌱 Passionate about responsive design and accessibility.  
+- 📢 Open to freelance and collaboration projects.  
 - 📫 Reach me at: [ahmednaeem455e@gmail.com](mailto:ahmednaeem455e@gmail.com)
 
----
+    </td>
+    <td valign="top" width="40%" align="center">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZxejdjbXV2b2pnZnkwcmNscXJqemZ1aDFmN3VsNnlwa3p6OHlzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding GIF" width="280" />
+    </td>
+  </tr>
+</table>
+
 
 ### Tech Stack
 
