@@ -27,7 +27,7 @@ Currently improving my JavaScript skills and exploring more about REST APIs and 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevAhmedNaeem&theme=onedark&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevAhmedNaeem&theme=onedark&no-frame=true&title=Stars,Followers,Commits" alt="GitHub Trophies">
 </p>
 
 ## 🛠️ Tech Stack — <em>waving into action</em> 🌊
