@@ -9,9 +9,9 @@
 I am a passionate **Junior Web Developer** with hands-on experience creating modern, responsive websites. I love writing clean code and building seamless user experiences.
 
 ---
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td valign="top" width="60%">
+    <td valign="middle" width="60%" style="padding-right: 20px; border: none;">
 
 ### Personal Highlights
 
@@ -23,7 +23,7 @@ I am a passionate **Junior Web Developer** with hands-on experience creating mod
 - 📫 Reach me at: [ahmednaeem455e@gmail.com](mailto:ahmednaeem455e@gmail.com)
 
     </td>
-    <td valign="top" width="40%" align="center">
+    <td valign="middle" width="40%" align="center" style="border: none;">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZxejdjbXV2b2pnZnkwcmNscXJqemZ1aDFmN3VsNnlwa3p6OHlzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding GIF" width="280" />
     </td>
   </tr>
