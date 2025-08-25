@@ -25,7 +25,7 @@ Currently improving my JavaScript skills and exploring more about REST APIs and 
 </div>
 
 
-## 🛠️ Tech Stack — <em>waving into action</em> 🌊
+## 🛠️ Tech Stack <em>waving into action</em> 🌊
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
