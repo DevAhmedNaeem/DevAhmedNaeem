@@ -29,8 +29,9 @@ I am a passionate **Junior Web Developer** with hands-on experience creating mod
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ahmed-naeem-webdeveloper/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=flat-square)](https://github.com/DevAhmedNaeem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-naeem-webdeveloper)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DevAhmedNaeem)
+
 
 ---
 
