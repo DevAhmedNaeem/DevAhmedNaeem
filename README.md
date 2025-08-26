@@ -74,8 +74,10 @@ HTML5 | CSS3 | JavaScript | WordPress | Git | Figma | Adobe Premiere
 
 ### 🐙 Fun Octocats
 
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="160" />
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="160" />
-<img src="https://octodex.github.com/images/carlostocat.gif" width="160" />
+<p>
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="160" style="margin-right: 10px;" />
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="160" style="margin-right: 10px;" />
+  <img src="https://octodex.github.com/images/carlostocat.gif" width="160" />
+</p>
 
 ---
