@@ -39,9 +39,9 @@ I am a passionate **Junior Web Developer** with hands-on experience creating mod
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 
-## 🚀 Featured Projects
+---
 
-<div align="center">
+## 🚀 Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -49,9 +49,8 @@ I am a passionate **Junior Web Developer** with hands-on experience creating mod
 | [Netflix UI Clone](https://netflix-by-ahmed.vercel.app/) | A modern Netflix homepage replica | `HTML`, `CSS` |
 | [YouTube UI Clone](https://youtube-by-ahmed.vercel.app/) | YouTube home UI built from scratch | `HTML`, `CSS` |
 
-</div>
-
 ---
+
 
 ## 📊 GitHub Stats
 
