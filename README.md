@@ -67,7 +67,7 @@ HTML5 | CSS3 | JavaScript | WordPress | Git | Figma | Adobe Premiere
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-naeem-webdeveloper)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmednaeemwebdeveloper)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DevAhmedNaeem)
 
 ---
