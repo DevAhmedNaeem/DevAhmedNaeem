@@ -88,3 +88,11 @@ HTML5 | CSS3 | JavaScript | WordPress | Git | Figma | Adobe Premiere
 </p>
 
 ---
+
+## 🙏 Thank You
+
+Thank you for visiting my profile! 🚀  
+If you like my work, don’t forget to ⭐ my repositories and connect with me.  
+Your support motivates me to keep building and improving! 💙  
+
+---
