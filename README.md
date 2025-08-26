@@ -52,31 +52,31 @@ I am a passionate **Junior Web Developer** with hands-on experience creating mod
 ---
 
 
+
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevAhmedNaeem&show_icons=true&theme=tokyonight" width="80%" />
-  <br><br>
-
-
-### Tech Stack
-
-- HTML5 | CSS3 | JavaScript | WordPress | Git | Figma | Adobe Premier
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevAhmedNaeem&show_icons=true&theme=tokyonight)
 
 ---
 
-### Connect with me:
+### 🧰 Tech Stack
+
+HTML5 | CSS3 | JavaScript | WordPress | Git | Figma | Adobe Premiere
+
+---
+
+### 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-naeem-webdeveloper)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DevAhmedNaeem)
 
+---
+
+### 🐙 Fun Octocats
+
+![DaftPunk Octocat Thomas](https://octodex.github.com/images/daftpunktocat-thomas.gif)
+![DaftPunk Octocat Guy](https://octodex.github.com/images/daftpunktocat-guy.gif)
+![Carlos Tocat](https://octodex.github.com/images/carlostocat.gif)
 
 ---
 
-### Fun Octocats
-
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Daftpunktocat" width="160" />
-  <img src="https://octodex.github.com/images/carlostocat.gif" alt="Carlostocat" width="160" />
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Daftpunktocat Guy" width="160" />
-</div>
