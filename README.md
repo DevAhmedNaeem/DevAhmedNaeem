@@ -18,7 +18,7 @@ Always eager to learn and grow, I’m currently focusing on sharpening my **Java
 
 ### Personal Highlights
 
-- 🎓 Junior Web Developer with practical experience in HTML, CSS, JavaScript, and WordPress.  
+- 🎓 Web Developer with practical experience in HTML, CSS, JavaScript, and WordPress.  
 - ⚙️ Building custom themes and plugins for WordPress.  
 - 📚 Currently enhancing my JavaScript skills and learning about REST APIs and full-stack development.  
 - 🌱 Passionate about responsive design and accessibility.  
