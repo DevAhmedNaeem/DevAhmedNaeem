@@ -18,8 +18,6 @@ Always eager to learn and grow, I’m currently focusing on sharpening my **Java
 
 ### Personal Highlights
 
-### Personal Highlights
-
 - 🎓 Web Developer with practical experience in HTML, CSS, JavaScript, and WordPress.  
 - ⚙️ Built and customized **40+ WordPress websites**, including custom themes and plugins.  
 - 💼 Around **2 years of professional experience** in web development.  
