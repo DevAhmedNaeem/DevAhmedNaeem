@@ -6,10 +6,7 @@
 
 ### About Me
 
-I am a passionate **Web Developer** with around **2 years of experience** in creating modern, responsive websites.  
-I have successfully built and customized **40+ WordPress websites**, including custom themes and plugins.  
-I love writing clean code, optimizing performance, and building seamless user experiences.  
-Always eager to learn and grow, I’m currently focusing on sharpening my **JavaScript** skills and exploring **REST APIs** and **full-stack development**.
+I am a passionate Web Developer with 2 years of experience in creating modern and responsive websites. My focus is on WordPress development where I work on custom themes, plugins and performance optimization. I enjoy building seamless user experiences with clean and efficient code. At the moment I am enhancing my JavaScript skills and exploring REST APIs and full stack development to broaden my expertise.  
 
 ---
 <table style="border-collapse: collapse; width: 100%;">
