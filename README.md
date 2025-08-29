@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ahmed Naeem
 
-### 💻 Junior Web Developer | HTML, CSS, JS | WordPress
+### 💻 Web Developer | HTML, CSS, JS | WordPress
 
 ---
 
