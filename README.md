@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ahmed Naeem
 
-### 💻 Web Developer | HTML, CSS, JS | WordPress
+### 💻 Web Developer | HTML, CSS, Java Script | WordPress | WIX
 
 ---
 
