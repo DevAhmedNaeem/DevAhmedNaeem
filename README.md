@@ -6,7 +6,7 @@
 
 ### About Me
 
-I am a passionate Web Developer with 1 year of experience in creating modern and responsive websites. My focus is on WordPress development where I work on custom themes, plugins and performance optimization. I enjoy building seamless user experiences with clean and efficient code. At the moment I am enhancing my JavaScript skills and exploring REST APIs and full stack development to broaden my expertise.  
+I am a passionate Web Developer with 2 years of experience in creating modern and responsive websites. My focus is on WordPress development where I work on custom themes, plugins and performance optimization. I enjoy building seamless user experiences with clean and efficient code. At the moment I am enhancing my JavaScript skills and exploring REST APIs and full stack development to broaden my expertise.  
 
 ---
 <table style="border-collapse: collapse; width: 100%;">
@@ -17,7 +17,7 @@ I am a passionate Web Developer with 1 year of experience in creating modern and
 
 - 🎓 Web Developer with practical experience in HTML, CSS, JavaScript, and WordPress.  
 - ⚙️ Built and customized **40+ WordPress websites**, including custom themes and plugins.  
-- 💼 Around **1 year of professional experience** in web development.  
+- 💼 Around **2 years of professional experience** in web development.  
 - 📚 Currently enhancing my JavaScript skills and learning about REST APIs and full-stack development.  
 - 🌱 Passionate about responsive design, SEO optimization, and accessibility.  
 - 🚀 Experienced in integrating third-party APIs and payment gateways.  
