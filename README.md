@@ -57,6 +57,8 @@ I am a passionate Web Developer creating modern and responsive websites. My focu
 | [Tesla Clone](https://tesla-by-ahmed.vercel.app/) | A sleek Tesla landing page clone | `HTML`, `CSS` |
 | [Netflix UI Clone](https://netflix-by-ahmed.vercel.app/) | A modern Netflix homepage replica | `HTML`, `CSS` |
 | [YouTube UI Clone](https://youtube-by-ahmed.vercel.app/) | YouTube home UI built from scratch | `HTML`, `CSS` |
+| [Random Colors](https://random-colors-portfolio.vercel.app/) | A fun project that generates random colors | `HTML`, `CSS`, `JavaScript` |
+
 
 ---
 
