@@ -16,7 +16,7 @@ I am a passionate Web Developer creating modern and responsive websites. My focu
 
 - 🎓 Web Developer with practical experience in HTML, CSS, JavaScript, and WordPress.  
 - ⚙️ Built and customized **40+ WordPress websites**, including custom themes and plugins.  
-- 💼 Around **2 years of professional experience** in web development.  
+- 💼 Professional experience in web development.
 - 📚 Currently enhancing my JavaScript skills and learning about REST APIs and full-stack development.  
 - 🌱 Passionate about responsive design, SEO optimization, and accessibility.  
 - 🚀 Experienced in integrating third-party APIs and payment gateways.  
