@@ -17,9 +17,9 @@ I am a passionate Web Developer creating modern and responsive websites. I work 
 - 🎓 Web Developer with practical experience in HTML, CSS, JavaScript, and WordPress.  
 - ⚙️ Built and customized **40+ WordPress websites**, including custom themes and plugins.  
 - 💼 Professional experience in web development.
-- 📚 Currently enhancing my JavaScript skills and learning about REST APIs and full-stack development.  
 - 🌱 Passionate about responsive design, SEO optimization, and accessibility.  
-- 🚀 Experienced in integrating third-party APIs and payment gateways.  
+- 🤝 Open to freelance and collaboration projects.
+- ✨ Always eager to learn new technologies and improve my skills to grow as a developer.
 - 📢 Open to freelance and collaboration projects.  
 - 📫 Reach me at: [ahmednaeem455e@gmail.com](mailto:ahmednaeem455e@gmail.com)
 
