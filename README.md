@@ -6,7 +6,7 @@
 
 ### About Me
 
-I am a passionate Web Developer creating modern and responsive websites. My focus is on WordPress development where I work on custom themes, plugins, and performance optimization. I enjoy building seamless user experiences with clean and efficient code. At the moment, I am enhancing my JavaScript skills and exploring REST APIs and full stack development to broaden my expertise.
+I am a passionate Web Developer creating modern and responsive websites. I work with HTML, CSS, JavaScript, WordPress, and WIX to build user-friendly websites with clean design and smooth performance. I enjoy learning new technologies, solving problems, and building projects that provide real value.
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
