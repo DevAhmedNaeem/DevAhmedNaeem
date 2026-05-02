@@ -15,7 +15,7 @@ I am a passionate Web Developer creating modern and responsive websites. I work 
 ### Personal Highlights
 
 - 🎓 Web Developer with practical experience in HTML, CSS, JavaScript, and WordPress.  
-- ⚙️ Built and customized **40+ WordPress websites**, including custom themes and plugins.  
+- ⚙️ Built and customized **500+ WordPress websites**, including custom themes and plugins.  
 - 💼 Professional experience in web development.
 - 🌱 Passionate about responsive design, SEO optimization, and accessibility.  
 - 🤝 Open to freelance and collaboration projects.
