@@ -1,101 +1,65 @@
 # 👋 Hello, I'm Ahmed Naeem
 
-### 💻 Web Developer | HTML, CSS, JavaScript | WordPress | WIX
+### 🚀 Web & CMS Developer | AI-Driven Development Specialist
+
+A forward-thinking developer focused on building modern, high-performance web experiences. By combining clean frontend architecture with advanced AI-assisted workflows, I build custom tools and production-ready applications at speed.
 
 ---
 
-### About Me
+### ⚡ About Me
 
-I am a passionate Web Developer creating modern and responsive websites. I work with HTML, CSS, JavaScript, WordPress, and WIX to build user-friendly websites with clean design and smooth performance. I enjoy learning new technologies, solving problems, and building projects that provide real value.
+- 💻 **Frontend & Core Tech:** Crafting responsive, scalable interfaces with HTML5, CSS3, JavaScript, and React.
+- 🛠️ **CMS Architecture:** Extensive expertise across major Content Management Systems including WordPress, Shopify, Wix, and Webflow.
+- 🤖 **AI-Amplified Workflow:** Leveraging advanced AI models like Claude to accelerate prototyping, generate custom logic, and build powerful digital tools.
+- ⚙️ **Performance & Optimization:** Focused on speed optimization, technical SEO, and conversion rate optimization (CRO) to maximize business value.
+- 📈 **Track Record:** Successfully delivered 50+ web development projects for global clients.
+- 📫 **Let's Connect:** [ahmednaeem455e@gmail.com](mailto:ahmednaeem455e@gmail.com)
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td valign="middle" width="60%" style="padding-right: 20px; border: none;">
+---
 
-### Personal Highlights
+## 🧰 Tech Stack & Ecosystem
 
-- 🎓 Web Developer with practical experience in HTML, CSS, JavaScript, and WordPress.  
-- ⚙️ Built and customized **500+ WordPress websites**, including custom themes and plugins.  
-- 💼 Professional experience in web development.
-- 🌱 Passionate about responsive design, SEO optimization, and accessibility.  
-- 🤝 Open to freelance and collaboration projects.
-- ✨ Always eager to learn new technologies and improve my skills to grow as a developer.
-- 📢 Open to freelance and collaboration projects.  
-- 📫 Reach me at: [ahmednaeem455e@gmail.com](mailto:ahmednaeem455e@gmail.com)
-
-    </td>
-    <td valign="middle" width="40%" align="center" style="border: none;">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZxejdjbXV2b2pnZnkwcmNscXJqemZ1aDFmN3VsNnlwa3p6OHlzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding GIF" width="280" />
-    </td>
-  </tr>
-</table>
-
-## 🛠️ My Favourite Tools
-
-### 👨‍💻 Programming languages and CMS
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Languages & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🔌 Content Management Systems (CMS)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7A933F?style=for-the-badge&logo=shopify&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 
-### 💻 Software and Tools
-
+### 🤖 AI Tools & Environment
+![Claude AI](https://img.shields.io/badge/Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Tesla Clone](https://tesla-by-ahmed.vercel.app/) | A sleek Tesla landing page clone | `HTML`, `CSS` |
-| [Netflix UI Clone](https://netflix-by-ahmed.vercel.app/) | A modern Netflix homepage replica | `HTML`, `CSS` |
-| [YouTube UI Clone](https://youtube-by-ahmed.vercel.app/) | YouTube home UI built from scratch | `HTML`, `CSS` |
-| [Random Colors](https://random-colors-portfolio.vercel.app/) | A fun project that generates random colors | `HTML`, `CSS`, `JavaScript` |
-
-
----
-
-
-
-## 📊 GitHub Stats
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevAhmedNaeem&show_icons=true&theme=tokyonight)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Custom AI Tools & Components** | High-utility custom scripts and responsive tools built using advanced AI-assisted engineering. | `JavaScript` `Claude` `API` |
+| **Tesla Clone** | A sleek, high-fidelity landing page replication focusing on smooth user experience. | `HTML5` `CSS3` `JS` |
+| **Netflix UI Clone** | Modern homepage layout emphasizing fluid layout controls and exact UI styling. | `HTML5` `CSS3` |
+| **Dynamic Color Engine** | A responsive web app engineered to dynamically generate and display hex palettes. | `JavaScript` `CSS3` |
 
 ---
 
-### 🧰 Tech Stack
+## 📊 GitHub Performance
 
-HTML5 | CSS3 | JavaScript | WordPress | Git | Figma | Adobe Premiere
-
----
-### 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmednaeem-webdeveloper/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DevAhmedNaeem)
-
-
-
-### 🐙 Fun Octocats
-
-<p>
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="160" style="margin-right: 10px;" />
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="160" style="margin-right: 10px;" />
-  <img src="https://octodex.github.com/images/carlostocat.gif" width="160" />
-</p>
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevAhmedNaeem&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAhmedNaeem&layout=compact&theme=tokyonight)
 
 ---
 
-## 🙏 Thank You
+## 🤝 Let's Collaborate
 
-Thank you for visiting my profile! 🚀  
-If you like my work, don’t forget to ⭐ my repositories and connect with me.  
-Your support motivates me to keep building and improving! 💙  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmednaeem-webdeveloper/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevAhmedNaeem)
 
----
+Thank you for visiting my profile! If you appreciate clean code, rapid AI-driven workflows, and pixel-perfect deployment, feel free to explore my repositories or reach out for custom project collaborations. 🌟
