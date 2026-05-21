@@ -15,7 +15,7 @@ I am a passionate Web Developer creating modern and responsive websites. I work 
 ### Personal Highlights
 
 - 🎓 Web Developer with practical experience in HTML, CSS, JavaScript, React, and Python.  
-- ⚙️ Successfully delivered **500+ web development projects**, including custom themes and builds across WordPress, Shopify, and Wix.  
+- ⚙️ Successfully delivered **50+ web development projects**, including custom themes and builds across WordPress, Shopify, and Wix.  
 - 🤖 Leverage advanced AI tools (Claude, Gemini, ChatGPT, Antigravity) to accelerate development and create efficient custom solutions.
 - 🌱 Passionate about responsive design, SEO optimization, and accessibility.  
 - ✨ Always eager to learn new technologies and improve my skills to grow as a developer.
@@ -58,6 +58,7 @@ I am a passionate Web Developer creating modern and responsive websites. I work 
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [Watermark Remover](https://water-mark-remover-phi.vercel.app/) | A web utility built to easily remove watermarks from images | `HTML`, `CSS`, `JavaScript`, `API` |
 | [Tesla Clone](https://tesla-by-ahmed.vercel.app/) | A sleek Tesla landing page clone | `HTML`, `CSS`, `JS` |
 | [Netflix UI Clone](https://netflix-by-ahmed.vercel.app/) | A modern Netflix homepage replica | `HTML`, `CSS` |
 | [YouTube UI Clone](https://youtube-by-ahmed.vercel.app/) | YouTube home UI built from scratch | `HTML`, `CSS` |
