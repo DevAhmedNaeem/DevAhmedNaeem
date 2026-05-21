@@ -15,7 +15,7 @@ I am a passionate Web Developer creating modern and responsive websites. I work 
 ### Personal Highlights
 
 - 🎓 Web Developer with practical experience in HTML, CSS, JavaScript, React, and Python.  
-- ⚙️ Successfully delivered **50+ web development projects**, including custom themes and builds across WordPress, Shopify, and Wix.  
+- ⚙️ Successfully delivered **500+ web development projects**, including custom themes and builds across WordPress, Shopify, and Wix.  
 - 🤖 Leverage advanced AI tools (Claude, Gemini, ChatGPT, Antigravity) to accelerate development and create efficient custom solutions.
 - 🌱 Passionate about responsive design, SEO optimization, and accessibility.  
 - ✨ Always eager to learn new technologies and improve my skills to grow as a developer.
