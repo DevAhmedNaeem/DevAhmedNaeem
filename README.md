@@ -65,12 +65,6 @@ I am a passionate Web Developer creating modern and responsive websites. I work 
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/DevAhmedNaeem">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevAhmedNaeem&show_icons=true&theme=tokyonight&v=1" alt="Ahmed's GitHub Stats" />
-</a> 
----
 
 ### 🤝 Connect with Me
 
