@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ahmed Naeem
 
-### 💻 Web Developer | HTML, CSS, JavaScript, React | CMS Expert | AI Enthusiast
+### 💻 Web Developer | HTML, CSS, JavaScript, React | CMS Expert | AI Tools
 
 ---
 
@@ -67,15 +67,10 @@ I am a passionate Web Developer creating modern and responsive websites. I work 
 
 ## 📊 GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevAhmedNaeem&show_icons=true&theme=tokyonight)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevAhmedNaeem&show_icons=true&theme=tokyonight&cache_seconds=60)
 
 ---
 
-### 🧰 Tech Stack
-
-HTML5 | CSS3 | JavaScript | React | Python | WordPress | Shopify | Wix | AI Tools | Git | Figma 
-
----
 ### 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmednaeem-webdeveloper/)
