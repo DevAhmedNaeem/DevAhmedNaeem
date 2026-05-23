@@ -6,7 +6,7 @@
 
 ### About Me
 
-Web Developer skilled in HTML, CSS, JavaScript, WordPress, and WIX. I create responsive, user-friendly websites with clean design and smooth performance.
+I am a passionate Web Developer creating modern and responsive websites. I work with HTML, CSS, JavaScript, React, and Python to build user-friendly websites with clean design and smooth performance. I also specialize in multi-platform CMS development (WordPress, Shopify, WIX) and utilize advanced AI tools like Claude and Antigravity to build projects and tools efficiently. I enjoy learning new technologies, solving problems, and building projects that provide real value.
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
