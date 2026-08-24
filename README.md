@@ -83,10 +83,10 @@ I am a passionate Web Developer creating modern and responsive websites. I work 
 
 ---
 
-## 🙏 Thank You
+## Thank You
 
-Thank you for visiting my profile! 🚀  
-If you like my work, don’t forget to ⭐ my repositories and connect with me.  
-Your support motivates me to keep building and improving! 💙  
+Thank you for visiting my profile! 
+If you like my work, don’t forget to my repositories and connect with me.  
+Your support motivates me to keep building and improving! 
 
 ---
