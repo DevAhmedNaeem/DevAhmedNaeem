@@ -58,7 +58,7 @@ I am a passionate Web Developer creating modern and responsive websites. I work 
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [AI Tools](https://watermark-remover-gray.vercel.app/) | A web utility built to easily remove watermarks, resize images and alt text generator
+| [AI Tools](https://watermark-remover-gray.vercel.app/) | A web utility built to easily remove watermarks and resize images.
 | `HTML`, `CSS`, `JavaScript`, `API` |
 | [Tesla Clone](https://tesla-by-ahmed.vercel.app/) | A sleek Tesla landing page clone | `HTML`, `CSS`, `JS` |
 | [Netflix UI Clone](https://netflix-by-ahmed.vercel.app/) | A modern Netflix homepage replica | `HTML`, `CSS` |
