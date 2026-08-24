@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Ahmed Naeem
+# Hello, I'm Ahmed Naeem
 
-### 💻 Web Developer | HTML, CSS, JavaScript, React | CMS Expert | AI Tools
+## Web Developer | HTML, CSS, JavaScript, React | CMS Expert | AI Tools
 
 ---
 
@@ -14,13 +14,13 @@ I am a passionate Web Developer creating modern and responsive websites. I work 
 
 ### Personal Highlights
 
-- 🎓 Web Developer with practical experience in HTML, CSS, JavaScript, React, and Python.  
-- ⚙️ Successfully delivered **500+ web development projects**, including custom themes and builds across WordPress, Shopify, and Wix.  
-- 🤖 Leverage advanced AI tools (Claude, Gemini, ChatGPT, Antigravity) to accelerate development and create efficient custom solutions.
-- 🌱 Passionate about responsive design, SEO optimization, and accessibility.  
-- ✨ Always eager to learn new technologies and improve my skills to grow as a developer.
-- 📢 Open to freelance and collaboration projects.  
-- 📫 Reach me at: [ahmednaeem455e@gmail.com](mailto:ahmednaeem455e@gmail.com)
+- Web Developer with practical experience in HTML, CSS, JavaScript, React, and Python.  
+- Successfully delivered **500+ web development projects**, including custom themes and builds across WordPress, Shopify, and Wix.  
+- Leverage advanced AI tools (Claude, Gemini, ChatGPT, Antigravity) to accelerate development and create efficient custom solutions.
+- Passionate about responsive design, SEO optimization, and accessibility.  
+- Always eager to learn new technologies and improve my skills to grow as a developer.
+- Open to freelance and collaboration projects.  
+- Reach me at: [ahmednaeem455e@gmail.com](mailto:ahmednaeem455e@gmail.com)
 
     </td>
     <td valign="middle" width="40%" align="center" style="border: none;">
@@ -29,9 +29,9 @@ I am a passionate Web Developer creating modern and responsive websites. I work 
   </tr>
 </table>
 
-## 🛠️ My Favourite Tools
+## My Favourite Tools
 
-### 👨‍💻 Programming Languages and CMS
+### Programming Languages and CMS
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,7 +42,7 @@ I am a passionate Web Developer creating modern and responsive websites. I work 
 ![Shopify](https://img.shields.io/badge/Shopify-7A933F?style=for-the-badge&logo=shopify&logoColor=white)
 ![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)
 
-### 🤖 AI & Developer Tools
+### AI & Developer Tools
 
 ![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -54,7 +54,7 @@ I am a passionate Web Developer creating modern and responsive websites. I work 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -68,12 +68,12 @@ I am a passionate Web Developer creating modern and responsive websites. I work 
 ---
 
 
-### 🤝 Connect with Me
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmednaeem-webdeveloper/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DevAhmedNaeem)
 
-### 🐙 Fun Octocats
+### Fun Octocats
 
 <p>
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="160" style="margin-right: 10px;" />
